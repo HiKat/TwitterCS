@@ -25,8 +25,8 @@ namespace Main
 			//リクエストトークン取得====================================================================
 			//ApiTestNoCallback
 			//callbackurl設定なしアカウント
-			const string CONSUMER_KEY = "8369eInu3C2YzkAgx3YrWbXMJ";
-			const string CONSUMER_SECRET = "8uWxX1iTTR1yxdA25RqlQxxn82tDipnsC5482UU3Etm3EpwQGn";
+			const string CONSUMER_KEY = "************************************";
+			const string CONSUMER_SECRET = "***************************************";
 
 			Auth auth = new Auth (CONSUMER_KEY, CONSUMER_SECRET);
 
